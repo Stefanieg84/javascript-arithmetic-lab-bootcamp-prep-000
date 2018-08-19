@@ -2,14 +2,14 @@ function add(a, b){
   return a + b
 }
 
-function subtract(num1, num2){
-  return num1 - num2
+function subtract(a, b){
+  retun a - b
 }
 
-function multiply(num1, num2){
-  return num1 * num2
+function multiply(a, b){
+  return a * b
 }
 
-function add(num1, num2){
-  return num1 / num2
+function divide(a, b){
+  return a / b
 }
